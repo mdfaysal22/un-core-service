@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/apple/Desktop/project/core-service/logs/winston/errors/.0744e86e91f0e2f1251f8969a730df6d7d35d52c-audit.json",
+    "files": [
+        {
+            "date": 1707177482060,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-06-02-05-error.log",
+            "hash": "bfbd82dd6b04371d5deeec46579b7224f50c191e77e101167a93dab6bf340dd8"
+        },
+        {
+            "date": 1707177823434,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-06-02-06-error.log",
+            "hash": "67b5a75632d184deec25430fc2b9ae97edc02a5a28a1090aa22866a7fa1a66b4"
+        },
+        {
+            "date": 1707234531854,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-06-02-21-error.log",
+            "hash": "1ed5618cce287a0407bfbe9b34f25d6a1f37be07091561e36fe186d25c264ff0"
+        },
+        {
+            "date": 1707235201732,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-06-02-22-error.log",
+            "hash": "f44708aef8cba5cd835811119619740f472df17a3c863b43e2dc946a9b0e4b82"
+        },
+        {
+            "date": 1707399031069,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-08-02-19-error.log",
+            "hash": "e9eb130cbf6bcf4fa1d61c10f4387d27f10bee5cc8b631697b6534dc96d69414"
+        },
+        {
+            "date": 1707402223184,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-08-02-20-error.log",
+            "hash": "dbc23845a1698847cd695a84b05fab2792cd0c78ac3c902ad6307f9ea5b60903"
+        },
+        {
+            "date": 1707405704401,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-08-02-21-error.log",
+            "hash": "a39d3bac0fa226cb2514c672f48609075abcbde3c274346e8d7296f85f86a240"
+        },
+        {
+            "date": 1707573720360,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-10-02-20-error.log",
+            "hash": "26a28fe129580e3b5a01a43f8ffe7e2e80ff23ecfd27ae7a630a1b85bce455e7"
+        },
+        {
+            "date": 1707580235756,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-10-02-21-error.log",
+            "hash": "3328f05f026307211c0d5e1b803b2e2e2d0a16a1daf7c8bd13cf158a013f8c33"
+        },
+        {
+            "date": 1707580802139,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-10-02-22-error.log",
+            "hash": "8c307fcd3827e24845f82d7ff05121e0555688ca81d064b3ae1377137b9823d7"
+        },
+        {
+            "date": 1707699898042,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-12-02-07-error.log",
+            "hash": "6fa1750613435554bb14cc3f47e89a2142d492006118cb4d1c65433ba545452d"
+        },
+        {
+            "date": 1707744032304,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-12-02-19-error.log",
+            "hash": "312bf05cb604165afd63bc1cd5404ba7d60a644a48f887bf3613250e58da0fd6"
+        },
+        {
+            "date": 1707747501499,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-12-02-20-error.log",
+            "hash": "a41b8b53afad8f6a70102d25245e8c35fbb69c7f5a2845d014fe8d4ff0be60e9"
+        },
+        {
+            "date": 1707750018773,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-12-02-21-error.log",
+            "hash": "35fc7ce72790fc84f873b4c82669b955a3f004daca67a186b5f15174206d8cb7"
+        },
+        {
+            "date": 1707805189312,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-13-02-12-error.log",
+            "hash": "96ac89cb6df0a592bb87216417e9d9a200fda1e38f6317b12796268928de57c6"
+        },
+        {
+            "date": 1707835835727,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-13-02-20-error.log",
+            "hash": "d7e5f391e865ee2bbad9795a15dba22c3c81290c31cd8699010e08fe7e9c253b"
+        },
+        {
+            "date": 1707836491990,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-13-02-21-error.log",
+            "hash": "e2190ddeaa22d1aafcc05b7185686f1ac0dce68ba685f81036adf34e711325b5"
+        },
+        {
+            "date": 1707872370158,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-14-02-06-error.log",
+            "hash": "4489a3955eb3d571a4d6721acc39035e08dd160e4a4360381e2c983648ac50ad"
+        },
+        {
+            "date": 1707872403927,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-14-02-07-error.log",
+            "hash": "38dc5c9cd1d721c2aaeb4811c76270c00022a67b74b7889a45d209226a4cf1e7"
+        },
+        {
+            "date": 1708045360985,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-16-02-07-error.log",
+            "hash": "48af7298619ef1f46c52cb2bb1499593d03b29a0b0e396151c9746146abf6ae2"
+        },
+        {
+            "date": 1708097905223,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-16-02-21-error.log",
+            "hash": "0b1f97a62c5c43a5b6bf6a3ecb3911ed3b7f97c6ee16dcea939f95f713a1b482"
+        },
+        {
+            "date": 1708099203279,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/errors/phu-2024-16-02-22-error.log",
+            "hash": "04c07345fbdb1ebad3cd9d26eee79f738db28504034204afa2aa0e6a8b032cc7"
+        }
+    ],
+    "hashType": "sha256"
+}

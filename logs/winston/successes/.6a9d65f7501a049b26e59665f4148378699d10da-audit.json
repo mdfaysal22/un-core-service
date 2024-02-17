@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/apple/Desktop/project/core-service/logs/winston/successes/.6a9d65f7501a049b26e59665f4148378699d10da-audit.json",
+    "files": [
+        {
+            "date": 1707177482056,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-06-02-05-success.log",
+            "hash": "72ffdc380a5746fab8bc318e5401bf87ac40365031a0a4e3b3c3cb281a8d343f"
+        },
+        {
+            "date": 1707177823430,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-06-02-06-success.log",
+            "hash": "31c24b51a34a6925ac5cd783b1ffe3cc15e005a618743148a14b045e9ac4dc5d"
+        },
+        {
+            "date": 1707234531848,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-06-02-21-success.log",
+            "hash": "753dc199fda7585d0cdb26b7ab0a3d6c533f0060f49e9ce4015ce10c9d15f9b1"
+        },
+        {
+            "date": 1707235201102,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-06-02-22-success.log",
+            "hash": "f2f025cc77a483b060a4ce2e3bcc2174f9e0e2e60311e728664fc3a5ffcfba4d"
+        },
+        {
+            "date": 1707399028965,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-08-02-19-success.log",
+            "hash": "6bf4382fa169d7d58ad92a10da8645dd6b847695271738ffe1fc4651df0724cd"
+        },
+        {
+            "date": 1707402221844,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-08-02-20-success.log",
+            "hash": "b4aa175485d36a738929abd76ca8074d5f3fbaf372e55a65996ede1c69b5e428"
+        },
+        {
+            "date": 1707405703287,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-08-02-21-success.log",
+            "hash": "530e6a8af860d736a2f3f830101c73975830dcbcdb7a9f4053b9c2c8d91de83b"
+        },
+        {
+            "date": 1707573720355,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-10-02-20-success.log",
+            "hash": "ac208a417c86057094bb661de81fddf3190ea6d2a90ac31ad214e47688ae5e89"
+        },
+        {
+            "date": 1707580234653,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-10-02-21-success.log",
+            "hash": "54e5029c278b69b9ae80123c2c6c5f13835d491b712cb3b48bad9cc3543611c7"
+        },
+        {
+            "date": 1707580802136,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-10-02-22-success.log",
+            "hash": "deb1925810a217f1c7765d50e8101cd19ef70a9710adf6d6f5a3ddb7eb713335"
+        },
+        {
+            "date": 1707699898038,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-12-02-07-success.log",
+            "hash": "88a2d4ed3b499ec4b9af2662a23c64ab173a445e5ea189df9197c76f6edb9502"
+        },
+        {
+            "date": 1707744032300,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-12-02-19-success.log",
+            "hash": "2bec73045f7705937b68575477608cd610064a68e5587b85a1cb7714476a1bca"
+        },
+        {
+            "date": 1707747501489,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-12-02-20-success.log",
+            "hash": "7c1d47034c5ef27e7f7681a79e4382b9e037f2ed16474595476fb471d9d6c371"
+        },
+        {
+            "date": 1707750018767,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-12-02-21-success.log",
+            "hash": "b252c531fdf3c5e90a7ea7bb39970d0540d9e43a0b63f87961966fb3dbc50a1e"
+        },
+        {
+            "date": 1707805187605,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-13-02-12-success.log",
+            "hash": "01222b4c4795a6d1d94cd3c0954eecfdb78489b7fce8c23d1a31025422234e1e"
+        },
+        {
+            "date": 1707835826540,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-13-02-20-success.log",
+            "hash": "da62e4e3d411bcce07097533106b80e75a3a9f0a2237ee1bf41a80861c565ab5"
+        },
+        {
+            "date": 1707836491195,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-13-02-21-success.log",
+            "hash": "8c017107e20b8535e52bf6c348e9e863f32952ba2ebb7f0cf8149f4b91e47e87"
+        },
+        {
+            "date": 1707872368839,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-14-02-06-success.log",
+            "hash": "6963a4e095c3030535b1419adaf3e23f264eabca1f581f5f6881dac1982db08d"
+        },
+        {
+            "date": 1707872403576,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-14-02-07-success.log",
+            "hash": "d598f6029c0c4b3d7b275bc15be475b8a88db594e66d701b366041054e8bc866"
+        },
+        {
+            "date": 1708045360975,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-16-02-07-success.log",
+            "hash": "ea6106841c2df72f104934b199572f5f177c8856a484a0717a6428421f80bab8"
+        },
+        {
+            "date": 1708097903687,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-16-02-21-success.log",
+            "hash": "2492d38ba6cfd076936b6aac89a32b0b81b6e67cd5e607f94d70f09cb645a894"
+        },
+        {
+            "date": 1708099202806,
+            "name": "/Users/apple/Desktop/project/core-service/logs/winston/successes/phu-2024-16-02-22-success.log",
+            "hash": "1c6c2ef1aa9117720f9919ed5e0fb6be8304e138bb58ba81cae70260b1519570"
+        }
+    ],
+    "hashType": "sha256"
+}
